@@ -1,2 +1,6 @@
 1. git status
-2. git add [Files]
+2. git add [Files] - добавляет файлы
+3. git add . - добавляет все файлы
+4. git commit -m "comment"
+5. git log/ git log --oneline
+6. git push [rep_link] [branch_name]
